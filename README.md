@@ -1,4 +1,4 @@
-
+![Masterhead](/bannerImageProfile.png)
 <h3 align="center">My name is Andrew Griswold and I am a fullstack web developer based in Boston, Massachusetts.
 </h3>
 
