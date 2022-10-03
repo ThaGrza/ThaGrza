@@ -1,5 +1,3 @@
-![Masterhead](/banner.png)
-<h3 align="center">Fullstack web developer based in Boston, Massachusetts.</h3>
 [![@pretzelbun's Holopin board](https://holopin.io/api/user/board?user=pretzelbun)](https://holopin.io/@pretzelbun)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaGrza&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
